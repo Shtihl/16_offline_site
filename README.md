@@ -1,7 +1,7 @@
 # New Site Template
 
-[TODO. There will be project description]
+It is simple site template with Bootstrap theme Jumbotron prepared for local develop
 
-# Project Goals
+## Project Goals
 
 The code is written for educational purposes. Training course for web-developers - [DEVMAN.org](https://devman.org)
